@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievements
 
-- 🔥 1000+ problems solved on [LeetCode](https://leetcode.com/u/porwal_abhay/) & [GFG](https://www.geeksforgeeks.org/user/porwalabhu5ua/)
+- 🔥 600+ problems solved on [LeetCode](https://leetcode.com/u/porwal_abhay/) & [GFG](https://www.geeksforgeeks.org/user/porwalabhu5ua/)
 - 🧠 1600+ rating on LeetCode | 3⭐ GFG
 - 🥇 Grand Finalist - UT Dallas Trading Competition (Top 40 / 800 teams)
 - 📊 Participated in Shri Ram Trading Challenge 2023
